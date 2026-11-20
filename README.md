@@ -10,49 +10,47 @@ A complete campus placement and recruitment management Android application built
 
 ## 📱 App Screenshots
 
-> Replace the placeholder `https://res.cloudinary.com/...` URLs below with your uploaded Cloudinary image links.
-
 ### 🔐 Authentication & Onboarding
-| Role Selection | Login Screen | Student Registration |
+| Role Selection | Student Login | Company Registration |
 | :---: | :---: | :---: |
-| <img src="https://res.cloudinary.com/dqbv45r78/image/upload/v1795181288/Mode_selecttion_screen_cwaub8.png" width="230" alt="Role Selection"/> | <img src="https://res.cloudinary.com/dqbv45r78/image/upload/v1795181289/student_login_screen_f6vpv0.png" width="230" alt="Login Screen"/> | <img src="https://res.cloudinary.com/dqbv45r78/image/upload/v1795181288/Company_Registration_screen_zinjer.png" width="230" alt="Student Registration"/> |
+| <img src="https://res.cloudinary.com/dqbv45r78/image/upload/v1795181288/Mode_selecttion_screen_cwaub8.png" width="230" alt="Role Selection"/> | <img src="https://res.cloudinary.com/dqbv45r78/image/upload/v1795181289/student_login_screen_f6vpv0.png" width="230" alt="Student Login"/> | <img src="https://res.cloudinary.com/dqbv45r78/image/upload/v1795181288/Company_Registration_screen_zinjer.png" width="230" alt="Company Registration"/> |
 
 ### 🎓 Student Module
-| Student Dashboard | Browse Jobs | Job Details & Apply |
-| :---: | :---: | :---: | :---: |
-| <img src="https://res.cloudinary.com/dqbv45r78/image/upload/v1795181288/dashboard_view_and_apply_kkxz4k.png" width="200" alt="Student Dashboard"/> | <img src="https://res.cloudinary.com/dqbv45r78/image/upload/v1795181287/company_profile_ake3bm.png" width="200" alt="Browse Jobs"/> | <img src="https://res.cloudinary.com/YOUR_CLOUD_NAME/image/upload/job_details.png" width="200" alt="Job Details"/> /> |
+| Student Dashboard | View & Apply Jobs |
+| :---: | :---: |
+| <img src="https://res.cloudinary.com/dqbv45r78/image/upload/v1795181289/Student_Dashboard_vsm09z.png" width="230" alt="Student Dashboard"/> | <img src="https://res.cloudinary.com/dqbv45r78/image/upload/v1795181288/dashboard_view_and_apply_kkxz4k.png" width="230" alt="View and Apply Jobs"/> |
 
-### 🏢 Company & Admin Modules
-| Company Profile | Post New Job | View Applicants |
-| :---: | :---: | :---: | :---: |
-| <img src="https://res.cloudinary.com/dqbv45r78/image/upload/v1795181287/company_profilereal_sg6th5.png" width="200" alt="Company Profile"/> | <img src="https://res.cloudinary.com/dqbv45r78/image/upload/v1795181289/Post_a_new_job_st2ukz.png" width="200" alt="Post Job"/> | <img src="https://res.cloudinary.com/dqbv45r78/image/upload/v1795181289/Student_Dashboard_vsm09z.png" width="200" alt="View Applicants"/>/> |
+### 🏢 Company Module
+| Company Profile | Company Overview | Post New Job |
+| :---: | :---: | :---: |
+| <img src="https://res.cloudinary.com/dqbv45r78/image/upload/v1795181287/company_profilereal_sg6th5.png" width="230" alt="Company Profile"/> | <img src="https://res.cloudinary.com/dqbv45r78/image/upload/v1795181287/company_profile_ake3bm.png" width="230" alt="Company Overview"/> | <img src="https://res.cloudinary.com/dqbv45r78/image/upload/v1795181289/Post_a_new_job_st2ukz.png" width="230" alt="Post New Job"/> |
 
 ---
 
 ## ✨ Key Features
 
 ### 👨‍🎓 For Students
-* **Multi-Step Registration & Profile:** Build and update academic credentials, skills, and personal details.
-* **Live Job Feed:** Browse active placement drives with role descriptions, eligibility criteria, and package details.
-* **One-Tap Application & Tracking:** Apply directly to openings and track application status in the **Applied Jobs** tab.
+- **Multi-Step Registration & Profile:** Build and update academic credentials, skills, and personal details.
+- **Live Job Feed:** Browse active placement drives with role descriptions, eligibility criteria, and package details.
+- **One-Tap Application & Tracking:** Apply directly to openings and track application status in the **Applied Jobs** tab.
 
 ### 🏢 For Companies
-* **Company Registration & Profile:** Manage organization details and recruiter contact info.
-* **Job Posting:** Publish new campus job openings with role requirements and deadlines.
-* **Applicant Management:** Review candidates who applied to posted roles and inspect detailed student profiles.
+- **Company Registration & Profile:** Manage organization details and recruiter contact info.
+- **Job Posting:** Publish new campus job openings with role requirements and deadlines.
+- **Applicant Management:** Review candidates who applied to posted roles and inspect detailed student profiles.
 
 ### 🛡️ For Admins
-* **Centralized Oversight:** Dedicated admin login and profile dashboard to oversee campus placement activity.
+- **Centralized Oversight:** Dedicated admin login and profile dashboard to oversee campus placement activity.
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Language:** Kotlin
-* **UI:** XML Layouts, Material Design Components, RecyclerView
-* **Architecture:** Activity-based Multi-Role Flow
-* **Backend & Database:** Firebase Authentication, Cloud Firestore / Realtime Database, Firebase Storage
-* **Build System:** Gradle (Kotlin DSL `.kts`)
+- **Language:** Kotlin
+- **UI:** XML Layouts, Material Design Components, RecyclerView
+- **Architecture:** Activity-based Multi-Role Flow
+- **Backend & Database:** Firebase Authentication, Cloud Firestore / Realtime Database, Firebase Storage
+- **Build System:** Gradle (Kotlin DSL `.kts`)
 
 ---
 
