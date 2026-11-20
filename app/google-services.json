@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330296609043",
+    "project_id": "placementsystem-97aa2",
+    "storage_bucket": "placementsystem-97aa2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330296609043:android:d5565d02183f5cacdc72e6",
+        "android_client_info": {
+          "package_name": "com.example.placementportal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7QI3UpOvU49lxYOL42Wmbt4VUb6G7KAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
